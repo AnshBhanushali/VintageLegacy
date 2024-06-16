@@ -1,0 +1,64 @@
+Frontend (React):
+React:
+
+Latest Version: 18.x
+Create React App: npx create-react-app my-app
+React Router:
+
+For routing: npm install react-router-dom
+State Management:
+
+Redux Toolkit: npm install @reduxjs/toolkit react-redux
+UI Framework:
+
+Material-UI: npm install @mui/material @emotion/react @emotion/styled
+or Bootstrap: npm install react-bootstrap bootstrap
+Form Handling:
+
+Formik: npm install formik
+Yup for validation: npm install yup
+HTTP Client:
+
+Axios: npm install axios
+Authentication:
+
+JSON Web Tokens (JWT): npm install jwt-decode
+Others:
+
+React Icons: npm install react-icons
+React Helmet for managing document head: npm install react-helmet
+React Toastify for notifications: npm install react-toastify
+React Stripe for payment processing: npm install @stripe/react-stripe-js @stripe/stripe-js
+Backend (Node.js and Express):
+Node.js:
+
+Latest Version: 16.x or 18.x
+Express:
+
+Latest Version: 4.x
+Installation: npm install express
+Database:
+
+MongoDB
+Mongoose for object data modeling: npm install mongoose
+Authentication:
+
+JWT: npm install jsonwebtoken
+Bcrypt for password hashing: npm install bcryptjs
+File Uploads:
+
+Multer: npm install multer
+Cloudinary for image storage: npm install cloudinary
+Environment Variables:
+
+Dotenv: npm install dotenv
+Payment Integration:
+
+Stripe: npm install stripe
+Others:
+
+Nodemon for development: npm install nodemon
+Body Parser: npm install body-parser
+Cors for handling cross-origin requests: npm install cors
+Express Async Handler for async error handling: npm install express-async-handler
+Morgan for logging: npm install morgan
